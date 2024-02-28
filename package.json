@@ -1,0 +1,22 @@
+{
+  "name": "is-khadim",
+  "version": "1.0.1",
+  "description": "Is the srting khadim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyeKhadim/is-khadim.git"
+  },
+  "keywords": [
+    "khadim"
+  ],
+  "author": "Khadim Hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyeKhadim/is-khadim/issues"
+  },
+  "homepage": "https://github.com/oyeKhadim/is-khadim#readme"
+}
